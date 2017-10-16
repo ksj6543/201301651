@@ -1,6 +1,7 @@
 int foo_a()
 {
 	printf("foo_a\n");
+	printf("ver_2");
 	return 0;
 }
 
