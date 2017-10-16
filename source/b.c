@@ -7,5 +7,6 @@ int foo_b()
 int foo3
 {
 	printf("foo3\n");
+	printf("Sdfsdf");
 	return 0;
 }
